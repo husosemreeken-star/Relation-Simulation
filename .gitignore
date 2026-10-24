@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-./Relation Simulation/Relation Simulation/glad.c
+**/glad.c
 
 # Compiled Object files
 *.slo
